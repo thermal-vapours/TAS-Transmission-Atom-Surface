@@ -24,7 +24,7 @@ Authors
 
 Tom Peyrot and Nikola Šibalić, 2019
 
-**Please cite as**: (TO-DO: full reference)
+**Please cite as**: (reference to be inserted)
 
 License
 -------
