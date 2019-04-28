@@ -10,7 +10,8 @@ of atom-vapour laser spectroscopy to obtain strength of
 atom-surface interactions.
 
 For more details on problem statement, solution method,
-assumptions and general use of package see documentation.
+assumptions and general use of package
+[see documentation](https://tas-transmission-atom-surface.readthedocs.io/en/latest/).
 
 For example of use of generated spectra to obtain
 van der Waals interaction coefficient between alkali
@@ -18,6 +19,8 @@ atoms and sapphire surface, see paper.
 Example of using data from paper and fitting procedure
 to obtain van der Waals interaction coefficient
 is provided in example notebook.
+
+[![Documentation Status](https://readthedocs.org/projects/tas-transmission-atom-surface/badge/?version=latest)](https://tas-transmission-atom-surface.readthedocs.io/en/latest/?badge=latest)
 
 Authors
 -------
