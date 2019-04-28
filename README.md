@@ -18,7 +18,8 @@ van der Waals interaction coefficient between alkali
 atoms and sapphire surface, see paper.
 Example of using data from paper and fitting procedure
 to obtain van der Waals interaction coefficient
-is provided in example notebook.
+is provided in [example notebook](/examples/basic_example.ipynb)
+that can be [run in browser using Binder](https://mybinder.org/v2/gh/thermal-vapours/TAS-Transmission-Atom-Surface.git/master?urlpath=lab%2Ftree%2Fexamples%2Fbasic_example.ipynb).
 
 [![Documentation Status](https://readthedocs.org/projects/tas-transmission-atom-surface/badge/?version=latest)](https://tas-transmission-atom-surface.readthedocs.io/en/latest/?badge=latest) [![Build Status](https://travis-ci.org/thermal-vapours/TAS-Transmission-Atom-Surface.svg?branch=master)](https://travis-ci.org/thermal-vapours/TAS-Transmission-Atom-Surface) [![PyPI version](https://badge.fury.io/py/TAS-Transmission-Atom-Surface.svg)](https://badge.fury.io/py/TAS-Transmission-Atom-Surface) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/thermal-vapours/TAS-Transmission-Atom-Surface.git/master?urlpath=lab%2Ftree%2Fexamples%2Fbasic_example.ipynb)
 
