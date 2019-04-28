@@ -9,7 +9,7 @@ from numpy.distutils.misc_util import get_numpy_include_dirs
 
 setup(
     name="TAS-Transmission-Atom-Surface",
-    version="0.0.2.",
+    version="0.0.3",
     description="TAS - Transmission spectra with Atom-Surface interactions",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
@@ -18,7 +18,7 @@ setup(
               "spectroscopy", "scientific", "physics", "laser spectroscopy",
               "thin atomic vapours"],
 #    url="To-do-add-later",
-    download_url="https://github.com/thermal-vapours/TAS-Transmission-Atom-Surface/archive/0.0.2.tar.gz",
+    download_url="https://github.com/thermal-vapours/TAS-Transmission-Atom-Surface/archive/0.0.3.tar.gz",
     author = 'Tom Peyrot and Nikola Sibalic',
     author_email = 'nikolasibalic@physics.org',
 
