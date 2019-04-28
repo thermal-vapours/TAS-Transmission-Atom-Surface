@@ -9,7 +9,7 @@ from numpy.distutils.misc_util import get_numpy_include_dirs
 
 setup(
     name="TAS-Transmission-Atom-Surface",
-    version="0.0.2",
+    version="0.0.2.",
     description="TAS - Transmission spectra with Atom-Surface interactions",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
