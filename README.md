@@ -28,7 +28,7 @@ Authors
 
 Tom Peyrot and Nikola Šibalić, 2019
 
-**Please cite as**: [T. Peyrot, N. Šibalić, Y.R.P. Sortais, A. Browaeys, A. Sargsyan, D. Sarkisyan, I.G. Hughes, C.S. Adams, "Measurement of the atom-surface van der Waals interaction by transmission spectroscopy in a wedged nano-cell", *Phys. Rev. A* **100**, 022503](https://doi.org/10.1103/PhysRevA.100.022503)
+**Please cite as**: [T. Peyrot, N. Šibalić, Y.R.P. Sortais, A. Browaeys, A. Sargsyan, D. Sarkisyan, I.G. Hughes, C.S. Adams, "Measurement of the atom-surface van der Waals interaction by transmission spectroscopy in a wedged nano-cell", *Phys. Rev. A* **100**, 022503 (2019)](https://doi.org/10.1103/PhysRevA.100.022503)
 
 License
 -------
