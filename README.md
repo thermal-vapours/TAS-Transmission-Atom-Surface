@@ -15,7 +15,7 @@ assumptions and general use of package
 
 For example of use of generated spectra to obtain
 van der Waals interaction coefficient between alkali
-atoms and sapphire surface, [see paper](https://arxiv.org/abs/1905.02783).
+atoms and sapphire surface, [see paper](https://doi.org/10.1103/PhysRevA.100.022503).
 Example of using data from paper and fitting procedure
 to obtain van der Waals interaction coefficient
 is provided in [example notebook](/examples/basic_example.ipynb)
@@ -28,7 +28,7 @@ Authors
 
 Tom Peyrot and Nikola Šibalić, 2019
 
-**Please cite as**: [T. Peyrot, N. Šibalić, Y.R.P. Sortais, A. Browaeys, A. Sargsyan, D. Sarkisyan, I.G. Hughes, C.S. Adams, "Measurement of the atom-surface van der Waals interaction by transmission spectroscopy in a wedged nano-cell", arXiv:1905.02783](https://arxiv.org/abs/1905.02783)
+**Please cite as**: [T. Peyrot, N. Šibalić, Y.R.P. Sortais, A. Browaeys, A. Sargsyan, D. Sarkisyan, I.G. Hughes, C.S. Adams, "Measurement of the atom-surface van der Waals interaction by transmission spectroscopy in a wedged nano-cell", *Phys. Rev. A* **100**, 022503](https://doi.org/10.1103/PhysRevA.100.022503)
 
 License
 -------
